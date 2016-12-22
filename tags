@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+_H_KMEANS	/home/wangd7/Desktop/kmeans-master/kmeans.h	2;"	d
+checkCuda	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^inline void checkCuda(cudaError_t e) {$/;"	f	signature:(cudaError_t e)
+checkLastCudaError	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^inline void checkLastCudaError() {$/;"	f	signature:()
+cuda_kmeans	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^float** cuda_kmeans(float**, int, int, int, float, int*, int*);$/;"	p	signature:(float**, int, int, int, float, int*, int*)
+err	/home/wangd7/Desktop/kmeans-master/kmeans.h	7;"	d
+file_read	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^float** file_read(char*, int*, int*);$/;"	p	signature:(char*, int*, int*)
+file_write	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^int     file_write(char*, int, int, int, float**, int*);$/;"	p	signature:(char*, int, int, int, float**, int*)
+malloc2D	/home/wangd7/Desktop/kmeans-master/kmeans.h	9;"	d
+msg	/home/wangd7/Desktop/kmeans-master/kmeans.h	6;"	d
+omp_kmeans	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^float** omp_kmeans(float**, int, int, int, float, int*, int*);$/;"	p	signature:(float**, int, int, int, float, int*, int*)
+seq_kmeans	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^float** seq_kmeans(float**, int, int, int, float, int*, int*);$/;"	p	signature:(float**, int, int, int, float, int*, int*)
+wtime	/home/wangd7/Desktop/kmeans-master/kmeans.h	/^double  wtime(void);$/;"	p	signature:(void)
